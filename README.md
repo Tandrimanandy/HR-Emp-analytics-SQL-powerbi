@@ -118,7 +118,7 @@ The data is **synthetic** and was generated with SQL for learning and portfolio 
 
 ### 1. Database setup and department table
 
-![Database setup](<img width="1920" height="1080" alt="1st" src="https://github.com/user-attachments/assets/083ebd29-24d8-4305-8377-cb14daa776c2" />)
+![Database setup]<img width="1920" height="1080" alt="1st" src="https://github.com/user-attachments/assets/083ebd29-24d8-4305-8377-cb14daa776c2" />
 
 ### 2. Employee records and performance review tables
 
