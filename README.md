@@ -118,43 +118,35 @@ The data is **synthetic** and was generated with SQL for learning and portfolio 
 
 ### 1. Database setup and department table
 
-![Database setup](<img width="1920" height="1080" alt="1st" src="https://github.com/user-attachments/assets/083ebd29-24d8-4305-8377-cb14daa776c2" />
-)
+![Database setup](<img width="1920" height="1080" alt="1st" src="https://github.com/user-attachments/assets/083ebd29-24d8-4305-8377-cb14daa776c2" />)
 
 ### 2. Employee records and performance review tables
 
-![Employee and review tables](<img width="1920" height="1080" alt="2nd" src="https://github.com/user-attachments/assets/3ff36808-7014-4498-b6ba-c08551d5b523" />
-)
+![Employee and review tables](<img width="1920" height="1080" alt="2nd" src="https://github.com/user-attachments/assets/3ff36808-7014-4498-b6ba-c08551d5b523" />)
 
 ### 3. Attendance table and department data insert
 
-![Attendance table and department inserts](<img width="1920" height="1080" alt="3rd" src="https://github.com/user-attachments/assets/6fdecc5f-8fa1-4c1f-8014-f527c3523306" />
-)
+![Attendance table and department inserts](<img width="1920" height="1080" alt="3rd" src="https://github.com/user-attachments/assets/6fdecc5f-8fa1-4c1f-8014-f527c3523306" />)
 
 ### 4. Employee data insert (part 1)
 
-![Employee inserts part 1](<img width="1920" height="1080" alt="4th" src="https://github.com/user-attachments/assets/3ae35969-0b6a-46d6-afc7-992b66693277" />
-)
+![Employee inserts part 1](<img width="1920" height="1080" alt="4th" src="https://github.com/user-attachments/assets/3ae35969-0b6a-46d6-afc7-992b66693277" />)
 
 ### 5. Manager hierarchy, emails and performance review generation
 
-![Manager hierarchy and reviews](<img width="1920" height="1080" alt="5th" src="https://github.com/user-attachments/assets/5d9eb69d-9b70-4b71-a793-f33c496c840c" />
-)
+![Manager hierarchy and reviews](<img width="1920" height="1080" alt="5th" src="https://github.com/user-attachments/assets/5d9eb69d-9b70-4b71-a793-f33c496c840c" />)
 
 ### 6. Performance reviews and attendance log generation
 
-![Reviews and attendance generation](<img width="1920" height="1080" alt="6th" src="https://github.com/user-attachments/assets/ee618a25-d0c3-40dc-b4bc-78372753b6a3" />
-)
+![Reviews and attendance generation](<img width="1920" height="1080" alt="6th" src="https://github.com/user-attachments/assets/ee618a25-d0c3-40dc-b4bc-78372753b6a3" />)
 
 ### 7. Data validation queries
 
-![Validation queries](<img width="1920" height="1080" alt="7th" src="https://github.com/user-attachments/assets/5792d36a-ce99-4704-ac44-19e03c1396d8" />
-)
+![Validation queries](<img width="1920" height="1080" alt="7th" src="https://github.com/user-attachments/assets/5792d36a-ce99-4704-ac44-19e03c1396d8" />)
 
 ### 8. Headcount and salary by department
 
-![Department analysis](<img width="1920" height="1080" alt="8th" src="https://github.com/user-attachments/assets/db725369-7fa0-4bcb-ac70-2de3935508fb" />
-)
+![Department analysis](<img width="1920" height="1080" alt="8th" src="https://github.com/user-attachments/assets/db725369-7fa0-4bcb-ac70-2de3935508fb" />)
 
 ---
 
